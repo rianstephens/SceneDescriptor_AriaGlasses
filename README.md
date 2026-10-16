@@ -49,7 +49,7 @@ aria_gen2 auth pair
 Approve the connection in the Aria companion app on your phone.
 
 **6. Add your Claude API key:**
-Open `Aria_Describer.py` and replace `your-api-key-here` with your key.
+Open `Aria_Scene_Describer.py` and replace `your-api-key-here` with your key.
 
 ## Usage
 
